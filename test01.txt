@@ -3,3 +3,5 @@
 코드 하나 추가했어욤
 
 coupon code 작성
+
+git push를 연습해볼게요
